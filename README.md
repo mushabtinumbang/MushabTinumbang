@@ -1,11 +1,6 @@
-<p align="left">
-<a href="https://github.com/MushabTinumbang">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MushabTinumbang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 <h1 align="center">Hi 👋, my name is Mushab Tinumbang</h1>
 <h3 align="center">A Machine Learning student at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/)</h3>
+<img align="right" alt="Math" width="400 src="https://thumbs.gfycat.com/KindAmpleImperialeagle-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushabtinumbang&label=Profile%20views&color=0e75b6&style=flat" alt="mushabtinumbang" /> </p>
 
