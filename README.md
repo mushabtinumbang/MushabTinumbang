@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Mushab Tinumbang</h1>
-<h3 align="center">A Machine Learning student at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/)</h3>
-<img align="right" alt="Math" width="400 src="https://thumbs.gfycat.com/KindAmpleImperialeagle-size_restricted.gif">
+<h3 align="center">A Machine Learning student at <h3 align="center"><a href="https://grow.google/intl/id_id/bangkit/">Bangkit Academy</a></h3></h3>
+<img align="right" alt="Math" width="400" src="https://thumbs.gfycat.com/KindAmpleImperialeagle-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushabtinumbang&label=Profile%20views&color=0e75b6&style=flat" alt="mushabtinumbang" /> </p>
 
