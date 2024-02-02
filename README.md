@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Mushab Tinumbang</h1>
-<h3 align="center"> Data Scientist @Gojek | Certified <a href="https://www.credential.net/71dc9ad5-ef58-44c3-823b-4577b4f6fe25#gs.6hm236">Tensorflow Developer</a></h3>
+<h3 align="center"> Data Scientist Intern @Gojek | Certified <a href="https://www.credential.net/71dc9ad5-ef58-44c3-823b-4577b4f6fe25#gs.6hm236">Tensorflow Developer</a></h3>
 <img align="right" alt="Math" width="400" src="https://thumbs.gfycat.com/KindAmpleImperialeagle-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushabtinumbang&label=Profile%20views&color=0e75b6&style=flat" alt="mushabtinumbang" /> </p>
